@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+
+<html>
+
+
+
+
+
+
+
+
+
+
+<head>
+
+
+
+<title>temi danso </title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.js"> </script>
+	
+</script>
+
+
+
+<script type="text/javascript">
+
+
+
+$(document).ready(function(){
+
+$("#arrow").hover(function(){
+$("#out").animate({"margin-left":"-97%"},3000);
+
+
+});
+
+
+
+
+
+//create enlargin tonip when sliding//
+
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script>
+
+<link href="https://fonts.googleapis.com/css?family=Allura|Antic+Slab|Great+Vibes|Homemade+Apple|Julius+Sans+One|Pinyon+Script|Playfair+Display+SC|Sacramento|Shrikhand|Tangerine" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Bubbler+One|Cinzel|Italianno|Lateef|Open+Sans+Condensed:300|Prosto+One|Wire+One" rel="stylesheet"> 
+
+<style type="text/css">
+
+
+h1{
+
+margin-top:170px;
+padding:20px;
+display: inline-block;
+text-align:center;
+border: 3px solid white;
+min-width: 250px;
+letter-spacing: 3px;
+font-family: 'Pinyon Script', cursive;
+width: 25%;
+height: 100px;
+padding-top: 70px;
+font-size:2.4em;
+color:black;
+opacity: 0.8;
+margin-left: 37%;
+
+}
+
+
+
+
+ol{
+
+list-style-type:none;
+
+margin-left: 70%;
+margin-top:2%;
+min-width: 300px;
+border: 0px solid black;
+width: 50px;
+position: absolute;
+}
+
+
+ol li{
+
+font-family: 'Great Vibes', cursive;
+
+display:inline-block;
+
+font-size:1.5em;
+
+margin-left:3%;
+
+text-align: center;
+color: grey;
+
+}
+
+#fash{
+
+	width: 38%;
+	height: 320px;
+opacity: 0.5;
+	margin-left:53%;
+margin-top: 78px;
+border: 0px solid black;
+background-image: url("fash.jpg");
+background-size: 100%,34%;
+background-position: center;
+background-repeat: no-repeat;
+position: absolute;
+display: none;
+}
+
+h3{
+font-family: 'Wire One', sans-serif;
+	text-align: center;
+	color: black;
+	margin-top: 135px;
+	font-size: 1em;
+	letter-spacing: 5px;
+
+}
+
+p{
+
+	border: 1px solid white;
+	margin-top: 70px;
+	width: 120px;
+	margin-left: 27%;
+}
+#slideshow{
+
+
+position: absolute;
+overflow: hidden;
+margin-left:0%;
+	width:102%;
+	height :550px;
+	border: 0px solid black;
+	margin-top:0px;
+	min-width: 600px;
+ min-height: 400px;
+
+}
+#out{
+
+margin-top: 20px;
+
+overflow: hidden;
+margin-left:0%;
+	width:2500px;
+	height :470px;
+	border:0px solid green;
+	overflow: hidden;
+	
+
+
+}
+#tonip{
+ 
+width:90%;
+
+height:20%;
+
+margin-top:60px;
+
+background-image:url("toni.jpg.png");
+
+background-position:center;
+
+background-size:100%,34%;
+
+border:0px solid black;
+
+margin-left:2.5%;
+position: absolute;
+ opacity:0.5;
+ min-width: 600px;
+ min-height: 400px;
+
+
+}
+#red{
+
+
+width:90%;
+
+height:00px;
+
+margin-top:60px;
+
+background-image:url("red.jpg");
+
+background-position:center;
+
+background-size:100%,20%;
+
+border:0px solid black;
+
+margin-left:100%;
+background-repeat: no-repeat;
+ opacity:0.5;
+ position: absolute;
+max-width: 1300px;
+ min-height:400px;
+
+
+}
+#arrow{
+	width: 30px;
+	height: 30px;
+	margin-left: 90%;
+	margin-top: 210px;
+	position: absolute;
+}
+</style>
+
+
+
+</head>
+
+<body>
+
+<ol>
+	<li>about </li>
+
+<li>blog </li>
+<li>portfolio</li>
+<li>home</li>
+
+
+</ol>
+
+
+<div id="slideshow">
+<div id="out">
+
+
+
+
+<div id="tonip" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+<img  id="arrow" src="arrow.png">
+<div id="fash">
+
+</div>
+
+
+
+<div id="red">
+	
+
+
+
+
+</div>
+
+</div>
+
+</div>
+
+<h1>Temi Danso</h1>
+
+
+
+<h3>copyright temi danso  2017 </h3>
+
+
+
+
+
+
+</body>
+
+
+
+</html> 
